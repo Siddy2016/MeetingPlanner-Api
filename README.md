@@ -1,3 +1,3 @@
 # MeetingPlanner-Api
 
-Link-- apidoc.eventplanner.ml
+Link-- http://apidoc.meetingplanner.ml/
